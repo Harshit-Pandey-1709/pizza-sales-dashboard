@@ -31,7 +31,7 @@ This project showcases an interactive Power BI dashboard built using one year of
 
 1. How many customers do we have each day? Are there any peak hours?
 2. How many pizzas are typically in an order? Do we have any bestsellers?
-3. How much revenue did we generate this year? Are there seasonal patterns?
+3. How much revenue did we generate this year? 
 4. Are there pizzas we should remove from the menu or promote?
 
 ---
