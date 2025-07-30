@@ -23,7 +23,6 @@ This project showcases an interactive Power BI dashboard built using one year of
 - **Order Size**: Understand average pizzas per transaction
 - **Top Products**: Reveal best-selling pizzas
 - **Revenue Trends**: Analyze total sales over the year
-- **Seasonality**: Discover patterns across months/weeks
 - **Menu Insights**: Spot underperforming items or promotional opportunities
 
 ---
